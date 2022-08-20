@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2o+llCZLWnf/sjtpFWVqwyYe+oMS4iykmGDY8Ssl+q7v6cctjqoXXoBcQG1mw7gprswd+u+g9z5IIqi53OB/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moman\\source\\repos\\run-devops\\ECommerce\\Shopping.Web\\Shopping.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moman\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
